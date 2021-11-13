@@ -2,6 +2,9 @@
 My name is Hassan Sohrabian, I'm living in IRAN, I have a bachelor degree in software engineering from " Islamic Azad University ", I have experience in SWIFT/PHP/JAVA for Android Device/MSSQL-Server/C#-WPF.
 Currenty position - I'm working in SOC
 
+## Goal 
+CISA Cyber Defense Analyst
+
 ## My Certifications (It doesn't mean I'm awesome, just learning)
 - Network PLUS
 - CCNA
