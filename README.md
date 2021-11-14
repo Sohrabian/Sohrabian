@@ -6,18 +6,20 @@ Currenty position - I'm working in SOC
 CISA Cyber Defense Analyst
 
 ## My Certifications (It doesn't mean I'm awesome, just learning)
-- Network PLUS
-- CCNA
-- LPIC 1       (received from anisa.co.ir)
-- LPIC 2       (received from anisa.co.ir)
-- Ansible      (received from anisa.co.ir)
-- Zabbix       (received from anisa.co.ir)
-- Web Hosting  (received from anisa.co.ir)
-- SSCP
-- SANS 504
-- SPLUNK Enterprise (Fundamental 1)
-- SANS 560
-- SANS 542
+| Certification | Skill | academy | Year |
+|---------------|-------|---------|------|
+| SPLUNK (F/1)  |       |         | 2021 |
+| SANS 542      |       |         | 2021 |
+| SANS 560      |       |         | 2021 |
+| SANS 504      |       |         | 2021 |
+| SSCP          |       |         | 2021 |
+| CCNA          |       |         | 2021 |
+| Network PLUS  |       |         | 2020 |
+| LPIC 1        | anisa |         | 2020 |
+| LPIC 2        | anisa |         | 2020 |
+| Ansible       | anisa |         | 2020 |
+| Zabbix        | anisa |         | 2020 |
+| Web Hosting   | anisa |         | 2020 |
 
 ## I'm Learning
 - SANS 503
