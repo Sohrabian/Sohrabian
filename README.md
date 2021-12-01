@@ -8,11 +8,11 @@ CISA Cyber Defense Analyst
 ## My Certifications (It doesn't mean I'm awesome, just learning)
 | Certification | Skill | academy | Year |
 |---------------|-------|---------|------|
-| SPLUNK (F/1) & log analysis  | roozbeh academy      |         | 2021 |
+| SPLUNK (F/1) & log analysis  |       | roozbeh academy       | 2021 |
 | SANS 542      |       |         | 2021 |
-| SANS 560      |       |         | 2021 |
-| SANS 504      | roozbeh academy      |         | 2021 |
-| SSCP          | roozbeh academy       |         | 2021 |
+| SANS 560      |       |  roozbeh academy       | 2021 |
+| SANS 504      |       |  roozbeh academy       | 2021 |
+| SSCP          |       |         | 2021 |
 | CCNA          |       |         | 2021 |
 | Network PLUS  |       |         | 2020 |
 | LPIC 1        | anisa |         | 2020 |
