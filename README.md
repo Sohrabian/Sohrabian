@@ -10,9 +10,9 @@ CISA Cyber Defense Analyst
 |---------------|-------|---------|------|
 | SPLUNK (F/1) & log analysis  |       | roozbeh academy       | 2021 |
 | SANS 542      |       |         | 2021 |
-| SANS 560      |       |  roozbeh academy       | 2021 |
-| SANS 504      |       |  roozbeh academy       | 2021 |
-| SSCP          |       |         | 2021 |
+| SANS 560      |       |         | 2021 |
+| SANS 504      |       | roozbeh academy       | 2021 |
+| SSCP          |       | roozbeh academy        | 2021 |
 | CCNA          |       |         | 2021 |
 | Network PLUS  |       |         | 2020 |
 | LPIC 1        | anisa |         | 2020 |
