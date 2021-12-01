@@ -15,11 +15,11 @@ CISA Cyber Defense Analyst
 | SSCP          |       | roozbeh academy        | 2021 |
 | CCNA          |       |         | 2021 |
 | Network PLUS  |       |         | 2020 |
-| LPIC 1        | anisa |         | 2020 |
-| LPIC 2        | anisa |         | 2020 |
-| Ansible       | anisa |         | 2020 |
-| Zabbix        | anisa |         | 2020 |
-| Web Hosting   | anisa |         | 2020 |
+| LPIC 1        |  |  anisa       | 2020 |
+| LPIC 2        |  |  anisa       | 2020 |
+| Ansible       |  |  anisa       | 2020 |
+| Zabbix        |  |  anisa       | 2020 |
+| Web Hosting   |  |  anisa       | 2020 |
 
 ## I'm Learning
 - SANS 503
