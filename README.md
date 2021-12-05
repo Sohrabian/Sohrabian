@@ -10,7 +10,7 @@ CISA Cyber Defense Analyst
 |---------------|-------|---------|-------|------|
 | log analysis in Security  |   10h    | roozbeh academy       | Mr. Yektaei | 2021 |
 | SPLUNK (F/1) & log analysis  |  30h     | roozbeh academy       | Mr. Tayanloo | 2021 |
-| SANS 542      |       |         | | 2021 |
+| SANS 542      |   knowing    |   knowing      |selfstudy| 2021 |
 | SANS 560      |       |         | | 2021 |
 | SANS 504      |  40h   | roozbeh academy       |Mr. Asgari| 2021 |
 | SSCP          |  30h   | roozbeh academy        |Mr. Asgari | 2021 |
@@ -25,6 +25,7 @@ CISA Cyber Defense Analyst
 ## I'm Learning
 - SANS 503
 - Python Scripting (Network automation and Ofensive)
+- I figure sans 542 certification is not awesome to learning just wast my time so learn again " web pentest " base on Server-side and exploit programming using python
 
 <!---
 Sohrabian/Sohrabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
