@@ -25,7 +25,7 @@ CISA Cyber Defense Analyst
 ## I'm Learning
 - SANS 503
 - Python Scripting (Network automation and Ofensive)
-- I figure out sans 542 certification is not awesome to learning just wast my time so learn again " web pentest " base on Server-side and exploit programming using python
+- I figure out sans 542 certification is not awesome to learn just wast my time so learn again " web pentest " base on Server-side and exploit programming using python
 
 <!---
 Sohrabian/Sohrabian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
