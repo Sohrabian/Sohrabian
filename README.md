@@ -12,8 +12,8 @@ CISA Cyber Defense Analyst
 | SPLUNK (F/1) & log analysis  |  30h     | roozbeh academy       | Mr. Tayanloo | 2021 |
 | SANS 542      |       |         | | 2021 |
 | SANS 560      |       |         | | 2021 |
-| SANS 504      |       | roozbeh academy       |Mr. Asgari| 2021 |
-| SSCP          |       | roozbeh academy        |Mr. Asgari | 2021 |
+| SANS 504      |  40h   | roozbeh academy       |Mr. Asgari| 2021 |
+| SSCP          |  30h   | roozbeh academy        |Mr. Asgari | 2021 |
 | CCNA          |   90h    |         | | 2021 |
 | Network PLUS  |       |         | | 2020 |
 | LPIC 1        | 50h |  anisa        |Mr. Kashani| 2020 |
