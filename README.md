@@ -6,20 +6,21 @@ My name is Hassan Sohrabian, I'm living in IRAN, Was born in 1995-03-21, I have 
 CISA Cyber Defense Analyst
 
 ## My Certifications (It doesn't mean I'm awesome, just learning)
-| Certification | Skill | academy | Year |
-|---------------|-------|---------|------|
-| SPLUNK (F/1) & log analysis  |       | roozbeh academy       | 2021 |
-| SANS 542      |       |         | 2021 |
-| SANS 560      |       |         | 2021 |
-| SANS 504      |       | roozbeh academy       | 2021 |
-| SSCP          |       | roozbeh academy        | 2021 |
-| CCNA          |       |         | 2021 |
-| Network PLUS  |       |         | 2020 |
-| LPIC 1        |  |  anisa       | 2020 |
-| LPIC 2        |  |  anisa       | 2020 |
-| Ansible       |  |  anisa       | 2020 |
-| Zabbix        |  |  anisa       | 2020 |
-| Web Hosting   |  |  anisa       | 2020 |
+| Certification | Skill | academy |Teacher| Year |
+|---------------|-------|---------|-------|------|
+| log analysis in Security  |       | roozbeh academy       | Mr. Yektaei | 2021 |
+| SPLUNK (F/1) & log analysis  |       | roozbeh academy       | Mr. Tayanloo | 2021 |
+| SANS 542      |       |         | | 2021 |
+| SANS 560      |       |         | | 2021 |
+| SANS 504      |       | roozbeh academy       |Mr. Asgari| 2021 |
+| SSCP          |       | roozbeh academy        |Mr. Asgari | 2021 |
+| CCNA          |       |         | | 2021 |
+| Network PLUS  |       |         | | 2020 |
+| LPIC 1        |  |  anisa        |Mr. Kashani| 2020 |
+| LPIC 2        |  |  anisa       |Mr. Mohammad Reza | 2020 |
+| Ansible       |  |  anisa       |Mr. Mohammad Siyahi| 2020 |
+| Zabbix        |  |  anisa       |Mr. Mohammad Hosseini | 2020 |
+| Web Hosting   |  |  anisa       |Mr. Moshashei| 2020 |
 
 ## I'm Learning
 - SANS 503
