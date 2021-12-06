@@ -9,7 +9,7 @@ CISA Cyber Defense Analyst
 | Certification | duration | academy |Teacher| Year |
 |---------------|-------|---------|-------|------|
 | log analysis in Security  |   10h    | roozbeh academy       | Mr. Yektaei | 2021 |
-| SPLUNK (F/1) & log analysis  |  30h     | roozbeh academy       | Mr. Tayanloo | 2021 |
+| SPLUNK (F/1)   |  30h     | roozbeh academy       | Mr. Tayanloo | 2021 |
 | SANS 542      |   knowing    |   knowing      |selfstudy| 2021 |
 | SANS 560      |       |         | | 2021 |
 | SANS 504      |  40h   | roozbeh academy       |Mr. Asgari| 2021 |
