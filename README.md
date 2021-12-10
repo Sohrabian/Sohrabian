@@ -8,19 +8,19 @@ CISA Cyber Defense Analyst
 ## My Certifications (It doesn't mean I'm awesome, just learning)
 | Certification | duration | academy |Teacher| Year |
 |---------------|-------|---------|-------|------|
-| log analysis in Security  |   10h    | roozbeh academy       | Mr. Yektaei | 2021 |
-| SPLUNK (F/1)   |  30h     | roozbeh academy       | Mr. Tayanloo | 2021 |
+| log analysis in Security  |   10h    |         | Mr. Yektaei | 2021 |
+| SPLUNK (F/1)   |  30h     |        | Mr. Tayanloo | 2021 |
 | SANS 542      |   knowing    |   knowing      |selfstudy| 2021 |
 | SANS 560      |       |         | | 2021 |
-| SANS 504      |  40h   | roozbeh academy       |Mr. Asgari| 2021 |
-| SSCP          |  30h   | roozbeh academy        |Mr. Asgari | 2021 |
+| SANS 504      |  40h   |        |Mr. Asgari| 2021 |
+| SSCP          |  30h   |         |Mr. Asgari | 2021 |
 | CCNA          |   90h    |         | | 2021 |
 | Network PLUS  |       |         | | 2020 |
-| LPIC 1        | 50h |  anisa        |Mr. Kashani| 2020 |
-| LPIC 2        | 50h |  anisa       |Mr. Mohammad Reza | 2020 |
-| Ansible       |  |  anisa       |Mr. Mohammad Siyahi| 2020 |
-| Zabbix        |  |  anisa       |Mr. Mohammad Hosseini | 2020 |
-| Web Hosting   |  |  anisa       |Mr. Moshashei| 2020 |
+| LPIC 1        | 50h |          |Mr. Kashani| 2020 |
+| LPIC 2        | 50h |         |Mr. Mohammad Reza | 2020 |
+| Ansible       |  |         |Mr. Mohammad Siyahi| 2020 |
+| Zabbix        |  |         |Mr. Mohammad Hosseini | 2020 |
+| Web Hosting   |  |         |Mr. Moshashei| 2020 |
 
 ## I'm Learning
 - SANS 503
