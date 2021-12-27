@@ -10,7 +10,7 @@ CISA Cyber Defense Analyst
 |---------------|-------|---------|-------|------|
 | log analysis in Security  |   10h    |         | Mr. Yektaei | 2021 |
 | SPLUNK (F/1)   |  30h     |        | Mr. Tayanloo | 2021 |
-| SANS 542      |   knowing    |   knowing      |selfstudy| 2021 |
+| SANS 542      |   not-complete   |   not-complete      |selfstudy| ---- |
 | SANS 560      |       |         | | 2021 |
 | SANS 504      |  40h   |        |Mr. Asgari| 2021 |
 | SSCP          |  30h   |         |Mr. Asgari | 2021 |
