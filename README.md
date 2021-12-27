@@ -1,5 +1,5 @@
 ## About Me
-My name is Hassan Sohrabian, I'm living in IRAN, Was born in 1995-03-21, I have a bachelor degree in software engineering from " Islamic Azad University ", I have experience in SWIFT/PHP/JAVA for Android Device/MSSQL-Server/C#-WPF - [RESUME IN PERSIAN](https://mega.nz/file/p5lAGDgB#HT6CmNM84d_zVnh8IJnhjErjPUIOa7GNJORc_RJsDXg).
+My name is Hassan Sohrabian, I'm living in IRAN, Was born in 1995-03-21, I have a bachelor degree in software engineering from " Islamic Azad University ", I have experience in SWIFT/PHP/JAVA (for android device and apple device - knowing to create php framework in pure but it's not secure for sure has some misconfiguration base on UNCOX toturial) /MSSQL-Server/C#-WPF - [RESUME IN PERSIAN](https://mega.nz/file/p5lAGDgB#HT6CmNM84d_zVnh8IJnhjErjPUIOa7GNJORc_RJsDXg).
 
 
 ## Goal 
