@@ -18,9 +18,6 @@ CISA Cyber Defense Analyst
 | Network PLUS  |       |         | | 2020 |
 | LPIC 1        | 50h |          |Mr. Kashani| 2020 |
 | LPIC 2        | 50h |         |Mr. Mohammad Reza | 2020 |
-| Ansible       |  |         |Mr. Mohammad Siyahi| 2020 |
-| Zabbix        |  |         |Mr. Mohammad Hosseini | 2020 |
-| Web Hosting   |  |         |Mr. Moshashei| 2020 |
 
 ## I'm Learning
 - SANS 503
